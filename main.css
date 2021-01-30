@@ -1,0 +1,9 @@
+table{
+    border-style: dashed;
+    background-color: lightblue;
+}
+
+th, td{
+    text-align: center;
+    padding: 10px;
+}
